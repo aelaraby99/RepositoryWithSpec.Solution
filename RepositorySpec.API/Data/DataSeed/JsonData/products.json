@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "Double Caramel Frappuccino",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 1
+  },
+  {
+    "Name": "White Chocolate Mocha Frappuccino",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 1
+  },
+  {
+    "Name": "Iced Cafe Latte",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 2
+  },
+  {
+    "Name": "White Chocolate Mocha",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300.0,
+    "ProductBrandId": 2,
+    "ProductCategoryId": 3
+  },
+  {
+    "Name": "Iced Caramel Macchiato",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 4
+  },
+  {
+    "Name": "Hot Caramel Macchiato",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120.0,
+    "ProductBrandId": 5,
+    "ProductCategoryId": 4
+  },
+  {
+    "Name": "Iced Matcha Latte",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10.0,
+    "ProductBrandId": 2,
+    "ProductCategoryId": 5
+  },
+  {
+    "Name": "Honey Cake",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 6
+  },
+  {
+    "Name": "Blueberry Cheesecake",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 6
+  },
+  {
+    "Name": "Glazed Donuts",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18.0,
+    "ProductBrandId": 3,
+    "ProductCategoryId": 7
+  },
+  {
+    "Name": "Greek Salad",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 7
+  },
+  {
+    "Name": "Iced Black Tea Lemonade",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 16.0,
+    "ProductBrandId": 4,
+    "ProductCategoryId": 4
+  },
+  {
+    "Name": "Iced London Fog Tea Latte",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 14.0,
+    "ProductBrandId": 4,
+    "ProductCategoryId": 4
+  },
+  {
+    "Name": "Turkey Bacon, Cheddar & Egg White Sandwich",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 250.0,
+    "ProductBrandId": 6,
+    "ProductCategoryId": 3
+  },
+  {
+    "Name": "Core Red Boots",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "ProductBrandId": 2,
+    "ProductCategoryId": 3
+  },
+  {
+    "Name": "Double-Smoked Bacon, Cheddar & Egg Sandwich",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "ProductBrandId": 2,
+    "ProductCategoryId": 3
+  },
+  {
+    "Name": "Iced Chai Tea Latte with Oleato Golden Foam",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 3
+  },
+  {
+    "Name": "Dragon Drink® Starbucks Refreshers® Beverage with Oleato Golden Foam",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180.0,
+    "ProductBrandId": 1,
+    "ProductCategoryId": 3
+  }
+]
